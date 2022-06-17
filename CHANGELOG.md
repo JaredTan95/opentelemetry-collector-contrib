@@ -18,6 +18,7 @@
 - `expvarreceiver`: Include `expvarreceiver` in components (#10847)
 - `googlemanagedprometheusexporter` Add the Google Managed Service for Prometheus exporter. (#10840)
 - `googlemanagedprometheusexporter` The Google Managed Service for Prometheus exporter is alpha. (#10925)
+- `servicegraphprocessor`: Add traces processor that builds a map representing the interrelationships between various services in a system (#9232)
 
 ### 💡 Enhancements 💡
 
