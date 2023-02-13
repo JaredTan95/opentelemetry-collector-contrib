@@ -11,7 +11,7 @@ require (
 	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.63.2-0.20221101161158-df8deb48186b
 	go.opentelemetry.io/collector/pdata v0.63.2-0.20221101161158-df8deb48186b
-	google.golang.org/grpc v1.50.1
+	google.golang.org/grpc v1.53.0
 )
 
 require (
@@ -46,10 +46,10 @@ require (
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.23.0 // indirect
-	golang.org/x/net v0.0.0-20220909164309-bea034e7d591 // indirect
-	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
-	golang.org/x/text v0.4.0 // indirect
-	google.golang.org/genproto v0.0.0-20221014213838-99cd37c6964a // indirect
+	golang.org/x/net v0.5.0 // indirect
+	golang.org/x/sys v0.4.0 // indirect
+	golang.org/x/text v0.6.0 // indirect
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
