@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.63.0
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	go.opentelemetry.io/collector/pdata v0.63.2-0.20221101161158-df8deb48186b
 	go.uber.org/multierr v1.8.0
 )
