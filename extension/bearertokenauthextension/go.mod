@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/fsnotify/fsnotify v1.6.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	go.opentelemetry.io/collector v0.63.2-0.20221101161158-df8deb48186b
 	go.uber.org/zap v1.23.0
 	google.golang.org/grpc v1.50.1
