@@ -5,9 +5,10 @@ package k8sobjectsreceiver // import "github.com/open-telemetry/opentelemetry-co
 
 import (
 	"fmt"
-	"k8s.io/client-go/kubernetes"
 	"strings"
 	"time"
+
+	"k8s.io/client-go/kubernetes"
 
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"k8s.io/client-go/discovery"

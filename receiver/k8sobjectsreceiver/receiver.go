@@ -5,10 +5,12 @@ package k8sobjectsreceiver // import "github.com/open-telemetry/opentelemetry-co
 
 import (
 	"context"
-	"github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig"
-	"k8s.io/client-go/kubernetes"
 	"sync"
 	"time"
+
+	"k8s.io/client-go/kubernetes"
+
+	"github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig"
 
 	"go.opentelemetry.io/collector/component"
 	"go.opentelemetry.io/collector/consumer"

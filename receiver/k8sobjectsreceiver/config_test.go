@@ -4,10 +4,11 @@
 package k8sobjectsreceiver
 
 import (
-	"github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig"
 	"path/filepath"
 	"testing"
 	"time"
+
+	"github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
