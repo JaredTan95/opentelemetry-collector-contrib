@@ -6,14 +6,14 @@ require (
 	github.com/leoluk/perflib_exporter v0.2.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/filter v0.73.0
 	github.com/shirou/gopsutil/v3 v3.23.2
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector v0.73.0
 	go.opentelemetry.io/collector/component v0.73.0
 	go.opentelemetry.io/collector/confmap v0.73.0
 	go.opentelemetry.io/collector/consumer v0.73.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rc7
 	go.opentelemetry.io/collector/receiver v0.73.0
-	go.opentelemetry.io/collector/semconv v0.73.0
+	go.opentelemetry.io/collector/semconv v0.113.0
 	go.uber.org/multierr v1.9.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/sys v0.6.0
@@ -52,7 +52,7 @@ require (
 	github.com/prometheus/statsd_exporter v0.22.7 // indirect
 	github.com/spf13/cobra v1.6.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/tklauser/go-sysconf v0.3.11 // indirect
 	github.com/tklauser/numcpus v0.6.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
